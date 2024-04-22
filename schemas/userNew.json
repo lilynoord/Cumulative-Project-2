@@ -23,7 +23,7 @@
       "minLength": 1,
       "maxLength": 30
     },
-    "email": {
+    "email": { 
       "type": "string",
       "minLength": 6,
       "maxLength": 60,

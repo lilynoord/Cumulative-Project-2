@@ -19,7 +19,7 @@
       "maxLength": 30
     },
     "lastName": {
-      "type": "string",
+      "type": "string", 
       "minLength": 1,
       "maxLength": 30
     },
